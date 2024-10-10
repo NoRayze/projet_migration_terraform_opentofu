@@ -1,0 +1,8 @@
+# Ignore les fichiers de providers Terraform et OpenTofu
+.terraform/
+.terraform.lock.hcl
+
+# Autres exclusions possibles
+*.log
+*.exe
+*.zip
